@@ -3,7 +3,7 @@
 ## Showing icons
  To enable icons, you can pass show_icons=true in the query param, like so:
 ``
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=python-life&show_icons=true)
 ``
 
 ## All inbuilt themes :-
@@ -17,12 +17,12 @@
 Use ?theme=THEME_NAME parameter like so :-
 
 ``
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=apython-life&show_icons=true&theme=radical)
 ``
 ## GitHub Stats Card
 
 <img src="Screenshot_2.jpg">
 
 ``
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=python-life)](https://github.com/python-life/github-readme-stats)
 ``
