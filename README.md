@@ -1,4 +1,4 @@
 # github
 
 
-<img src=".them.jpg">
+<img src="them.jpg">
