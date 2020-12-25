@@ -1,4 +1,4 @@
-# github
+# تخصيص البروفايل الخاص بك على الجيث هوب باحترافية 
 
 ## Showing icons
  To enable icons, you can pass show_icons=true in the query param, like so:
@@ -11,7 +11,7 @@
 
 <img src="Screenshot_1.jpg">
 
-## تغير الثام يدوينا
+## تغير الثيم يدوينا
 # With inbuilt themes, you can customize the look of the card without doing any manual customization.
 
 Use ?theme=اسم للوان هنا  parameter like so :-
